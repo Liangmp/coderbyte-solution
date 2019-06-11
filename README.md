@@ -19,9 +19,11 @@ Keep updating.
 ## Hard
 - Kaprekars Constant 
 - Chessboard Traveling
-- MaximalSquare
+- Maximal Square
   - I think this one is very hard when it comes to matrix and filter, and how to handle filter movement within a matrix by pure code without using some matrix handling library.
   - Since coderbyte uses python2, and my own laptop uses python3, I have 2 version of the code. 
   - For python2 version, you can just copy and paste the code on to the [coderbyte online editor](https://www.coderbyte.com/information/Maximal%20Square) and test the code.
   - For python3, you can run it on your own computer. You need to copy and paste the test case on strArr, for example: `strArr = ["0111", "1111", "1111", "1111"]`
-  - Have fun!
+  - You can uncomment the `print()` to have a close monitor on how it works. Have fun!
+- Pentagonal Number
+  - Although it is a hard challenge, it is not hard at all. All you need to do is to find the regular pattern of how the pentagon grows.
