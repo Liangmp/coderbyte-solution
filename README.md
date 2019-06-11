@@ -15,6 +15,8 @@ Keep updating.
 - Simple Symbols
 - First Factorial
 - Letter Capitalize
+- Correct Path
+  - I hate using bruteforce!
 
 ## Hard
 - Kaprekars Constant 
