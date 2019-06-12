@@ -1,4 +1,4 @@
-Here are my solutions for coding challenges in [coderbyte](https://www.coderbyte.com)
+Here are my solutions for coding challenges in [coderbyte](https://www.coderbyte.com).
 
 Hope you have fun with these coding challenges.
 
@@ -19,10 +19,14 @@ Keep updating.
   - I hate bruteforce!
 - Scale Balancing
 - Vowel Square
+  - Simple searching.
+- Closest Enemy II
+  - The key to solve this challenge is to handle wrappingl.
+- Question Marks
 
 ## Medium:
 - Eight Queens
-  - This challenge only asks you to determine if there is any attack, which is much more simple than to find solutions that no queen attacking each other as described in [wiki](https://en.wikipedia.org/wiki/Eight_queens_puzzle#Solutions)
+  - This challenge only asks you to determine if there is any attack, which is much more simple than to find solutions that no queen attacking each other as described in [wikiedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle#Solutions).
 
 ## Hard
 - Kaprekars Constant 
