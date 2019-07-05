@@ -26,7 +26,7 @@ Keep updating.
 
 ## Medium:
 - Eight Queens
-  - This challenge only asks you to determine if there is any attack, which is much more simple than to find solutions that no queen attacking each other as described in [wikiedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle#Solutions).
+  - This challenge only asks you to determine if there is any attack, which is much simpler than to find solutions that no queen attacking each other as described in [wikiedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle#Solutions).
 
 ## Hard
 - Kaprekars Constant 
